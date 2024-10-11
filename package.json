@@ -31,10 +31,22 @@
     "webpack-dev-server": "^3.11.2",
     "webpack-merge": "^5.7.3"
   },
+<<<<<<< HEAD
   "name": "importingmodels-scrollanimations",
   "version": "1.0.0",
   "description": "Courtesy of Bruno Simon of https://threejs-journey.xyz/",
   "main": "index.js",
   "devDependencies": {},
   "author": ""
+=======
+  "name": "threejs-webpack-starter",
+  "version": "1.0.0",
+  "description": "Courtesy of Bruno Simon of https://threejs-journey.xyz/",
+  "main": "index.js",
+  "author": "",
+  "devDependencies": {
+    "@types/dat.gui": "^0.7.13",
+    "@types/three": "^0.169.0"
+  }
+>>>>>>> b044f764a7e181fc43918312a881fb93e2012fa2
 }
